@@ -1,0 +1,26 @@
+# Node / Next.js
+node_modules/
+.next/
+
+# Python
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Data & ML
+data/
+models/
+*.pt
+*.h5
+*.ckpt
+
+# Cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
